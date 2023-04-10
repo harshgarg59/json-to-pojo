@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "javaType": "com.inn.example.DeliveryAddress",
+  "properties": {
+    "AddressLine": {
+      "type": "String"
+    },
+    "City": {
+      "type": "String"
+    },
+    "State": {
+      "type": "String"
+    },
+    "PinCode": {
+      "type": "String"
+    },
+    "ContactNumber": {
+      "type": "String"
+    }
+  }
+}
